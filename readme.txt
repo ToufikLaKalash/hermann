@@ -1,1 +1,2 @@
-Nous allons stocker ici nos livrables
+Ceci est le dépôt de notre cahier des charges pour le projet de site internet qui porte sur l'alimentation des tortues Hermann.
+Actuellement, les parties 2.1, 2.2, 2.3, 2.4, 2.5 sont rédigées et mises en forme.
